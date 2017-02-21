@@ -37,8 +37,7 @@ Here's a walkthrough of implemented user stories on the iPhone 7:
 
 
 
-Here is the same app on the iPhone 5s:
-<img src='http://i.imgur.com/3XOP1CW.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here you can see the same app on the iPhone 5s: http://i.imgur.com/3XOP1CW.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
