@@ -8,37 +8,46 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Table rows for search results should be dynamic height according to the content height.
-- [ ] Custom cells should have the proper Auto Layout constraints.
-- [ ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
+- [x] Table rows for search results should be dynamic height according to the content height.
+- [x] Custom cells should have the proper Auto Layout constraints.
+- [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
 The following **optional** features are implemented:
 
-- [ ] Search results page
-   - [ ] Infinite scroll for restaurant results.
+- [x] Search results page
+   - [x] Infinite scroll for restaurant results.
    - [ ] Implement map view of restaurant results.
 - [ ] Implement the restaurant detail page.
 
+
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Filters as an alternative to searching
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
+1. gesture recognition
 2. 
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories on the iPhone 7:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Bf5m4O2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+Here is the same app on the iPhone 5s:
+<img src='http://i.imgur.com/3XOP1CW.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Forgot how to use tap gesture recognizer. Need to learn how to 
+recognize gestures overall, I realize now. Also, wish I had implemented
+the search bar on the flicks app, for practice.
 
 ## License
 
